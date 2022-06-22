@@ -1,0 +1,24 @@
+{
+"comments": "Each item is added to the menu, and each subitem is added to its parent"
+
+,"items":[
+	 {"text":"HOME"         ,"url":"app.html"              ,"hasChildren" :false}
+	,{"text":"ABOUT US"     ,"url":""                      ,"hasChildren" :true }
+	,{"text":"What We Do"   ,"url":"/app.html?p=about"     ,"hasChildren" :false}
+	,{"text":"Get Involved" ,"url":""                      ,"hasChildren" :true }
+	,{"text":"Resources"    ,"url":"/app.html?p=resources" ,"hasChildren" :true }
+	,{"text":"Donate"       ,"url":"/app.html?p=donate"    ,"hasChildren":false }
+]
+
+,"subItems":[
+	 {"text":"VISIT"                   ,"url":"/app.html?p=visit"           ,"parent":"ABOUT US"}
+	,{"text":"OUR TEAM"                ,"url":"/app.html?p=team"            ,"parent":"ABOUT US"}
+	,{"text":"PERMACULTURE ETHICS"     ,"url":"/app.html?p=permaEthics"     ,"parent":"ABOUT US"}
+	,{"text":"PERMACULTURE PRINCIPLES" ,"url":"/app.html?p=permaPrinciples" ,"parent":"ABOUT US"}
+
+	,{"text":"NEWSLETTER"              ,"url":"/app.html?p=newsletter"      ,"parent":"Get Involved"}
+	,{"text":"VOLUNTEER"               ,"url":"/app.html?p=volunteer"       ,"parent":"Get Involved"}
+	,{"text":"MEMBER"                  ,"url":"/app.html?p=member"          ,"parent":"Get Involved"}
+]
+
+}

@@ -1,0 +1,40 @@
+{
+"comments": "The various parts of the footer are defined here by grouping"
+
+,"logo":[
+	{"img":"/synergyData/app/logo.webp","alt":"Sustainable Future Center Logo"}
+]
+
+,"phone":"1-865-294-0154<br>call or txt"
+
+,"email":"info@sfcknox.org"
+
+,"address":[
+	 "201 Ogle Ave"
+	,"Knoxville, TN 37920"
+]
+
+,"social":[
+	 {"url":"https://www.instagram.com/sustainablefuturecenter/", "img":"/synergyData/app/instagram.webp","alt":"Follow Us on Instagram"}
+	 ,{"url":"https://www.facebook.com/SustainableFutureCenter/" , "img":"/synergyData/app/facebook.webp" ,"alt":"Follow Us on Facebook"}
+
+]
+
+,"socialNotBeingUsed":[
+
+]
+
+,"resources":[
+	 {"url":"/synergyData/documents/bylaws.pdf", "text":"Bylaws" }
+	,{"url":"/app.html?p=solar"               , "text":"Solar"  }
+	,{"url":"/app.html?p=library"             , "text":"Library"}
+]
+
+,"involve":[
+	 {"url":"/app.html?p=volunteer"  ,"text":"Volunteer"}
+	,{"url":"/app.html?p=donate"     ,"text":"Donate"}
+	,{"url":"/app.html?p=newsletter" ,"text":"Get Our Newsletter"}
+]
+
+,"copyright":"Copyright &copy; 2022 &bull; Sustainable Future Center"
+}

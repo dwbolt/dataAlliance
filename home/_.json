@@ -1,0 +1,132 @@
+{
+"headTitle":"Gardens"
+,"heading1": "Community Garden and Growers Alliance"
+,"updated": "2022-06-22"
+
+,"buttons":[
+    {"button":"Mission"   ,"onclick":"app.display(this, 'mission' , 'Mission' )"}
+   ,{"button":"Members"   ,"onclick":"app.display(this, 'members' , 'Members' )"}
+   ,{"button":"Meetings"  ,"onclick":"app.display(this, 'meetings', 'Meetings')"}
+]
+
+,"lists": {
+ "members":[
+    "Battle,Chris"
+   ,"Bolt,David"
+   ,"Caraco,Adam"
+   ,"Conaway,Ben"
+   ,"Mays,Ashlee"
+   ,"Skinner,Calvin Taylor"
+   ,"add"
+ ]
+
+ ,"meetings": ["meetings"]
+ ,"mission":  ["mission"]
+
+}
+
+,"node": {
+
+
+"Battle,Chris":{
+  "text":[
+    ["h3","","Chris Battle - BattleField Farm and Gardens"]
+    ,["p","","?"]
+  ]
+
+  ,"u_urls": [
+     ["Facebook", "https://www.facebook.com/battlefieldfarm.gardens"]
+  ]
+}
+
+
+,"Bolt,David":{
+  "text":[
+    ["h3","","Davvid Bolt - Susainable Futre Center"]
+    ,["p","","?"]
+  ]
+
+  ,"u_urls": [
+     ["Web", "https://SFCknox.org"]
+  ]
+}
+
+,"Caraco,Adam":{
+  "text":[
+    ["h3","","Adam Caraco - Beardsley Community Farm "]
+    ,["p","","?"]
+  ]
+
+  ,"u_urls": [
+     ["Web", "https://www.beardsleyfarm.org"]
+  ]
+}
+
+
+,"Conaway,Ben":{
+  "text":[
+    ["h3","","Ben Conaway - Cultivate Wholness"]
+    ,["p","","?"]
+  ]
+
+  ,"u_urls": [
+     ["Web", "https://www.cultivatewholeness.info"]
+  ]
+}
+
+
+,"Mays,Ashlee":{
+  "text":[
+    ["h3","","Ashlee Mays - Museum of Infinite Outcomes"]
+    ,["p","","?"]
+  ]
+
+  ,"u_urls": [
+     ["Web", "https://museumofinfiniteoutcomes.com"]
+  ]
+}
+
+
+,"Skinner,Calvin Taylor":{
+  "text":[
+    ["h3","","Calvin Taylor Skinner"]
+    ,["p","","?"]
+  ]
+
+  ,"u_urls": [
+     ["Web", "https://www.calvintaylorskinner.com"]
+  ]
+}
+
+
+,"meetings":{
+  "text":[
+    ["h3","","Monthly Meetings on Zoom"]
+   ,["p","","Conatact <a href = 'mailto: pettigrewk@unitedwayknox.org'>Kimberly Pettigrew</a> to get on the email list for meeting details "]
+  ]
+
+  ,"u_urls": [
+  ]
+}
+
+,"mission":{
+  "text":[
+    ["h3","","Mission"]
+   ,["p","","?"]
+  ]
+
+  ,"u_urls": [
+  ]
+}
+
+,"add":{
+  "text":[
+    ["h3","","People to Add"]
+   ,["p","","charlotte.rodina@knoxcac.org <charlotte.rodina@knoxcac.org>,Christopher Rylan Thompson (cthomp55@tnstate.edu) <cthomp55@tnstate.edu>,Gayle Hansen Browne <ghbrowne50@gmail.com>,jacob@knoxgarden.org <jacob@knoxgarden.org>,jenmcmahon08@gmail.com <jenmcmahon08@gmail.com>,Jim Browne (jp_browne@msn.com) <jp_browne@msn.com>,Khann Chov <khann@keepknoxvillebeautiful.org>,leiamommi35@gmail.com <leiamommi35@gmail.com>,lorilhaskell@gmail.com <lorilhaskell@gmail.com>,lstair@bsmlaw.com <lstair@bsmlaw.com>,mariamahusain@gmail.com <mariamahusain@gmail.com>,Katy Neusner <neusnerk@unitedwayknox.org>,phester@odbcacfp.org <phester@odbcacfp.org>,Preston Flaherty <flahertypreston@gmail.com>,Rebekah.e.rich@gmail.com<Rebekah.e.rich@gmail.com>,Regan Hill (culturalorientation@bridgerefugees.org) <culturalorientation@bridgerefugees.org>,Riley Douglas (museumofinfiniteoutreach@gmail.com) <museumofinfiniteoutreach@gmail.com>,sarahninah@gmail.com <sarahninah@gmail.com>,vannette22@gmail.com <vannette22@gmail.com>"]
+  ]
+
+  ,"u_urls": [
+  ]
+}
+
+}}
